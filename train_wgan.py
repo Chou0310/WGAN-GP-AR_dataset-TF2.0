@@ -4,7 +4,7 @@ from model.wgan import *
 
 #===============================
 """
-AR4 use  to WGAN GP CK dataset which generator has (upsampling + BN) stack by tack 
+use  to WGAN GP CK dataset
 """
 #===============================
 #hyper parameter
