@@ -1,7 +1,7 @@
 import time
 import os
 from loss.losses import *
-from network.pomelo_network import *
+from network.wgan_network import *
 from utils.img_tools import *
 from network import *
 from tensorflow.keras import backend as K
